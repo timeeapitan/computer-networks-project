@@ -1,89 +1,837 @@
-Humidity (%): 65.00
+
+Humidity (%): 60.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 60.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 59.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 59.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 59.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 59.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 59.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 59.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 59.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 59.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 59.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 59.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 58.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 58.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 58.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 58.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 58.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 58.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 58.00
 Temperature (C): 19.00
 
-Humidity (%): 65.00
+Humidity (%): 58.00
 Temperature (C): 19.00
 
-Humidity (%): 93.00
+Humidity (%): 58.00
 Temperature (C): 19.00
 
-Humidity (%): 93.00
+Humidity (%): 58.00
 Temperature (C): 19.00
 
-Humidity (%): 93.00
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 57.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 57.00
+Temperature (C): 19.00
+
+Humidity (%): 57.00
+Temperature (C): 19.00
+
+Humidity (%): 57.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
+Temperature (C): 19.00
+
+Humidity (%): 58.00
 Temperature (C): 20.00
 
-Humidity (%): 94.00
+Humidity (%): 86.00
+Temperature (C): 20.00
+
+Humidity (%): 69.00
+Temperature (C): 20.00
+
+Humidity (%): 64.00
+Temperature (C): 20.00
+
+Humidity (%): 64.00
+Temperature (C): 20.00
+
+Humidity (%): 64.00
+Temperature (C): 20.00
+
+Humidity (%): 65.00
+Temperature (C): 20.00
+
+Humidity (%): 70.00
+Temperature (C): 20.00
+
+Humidity (%): 90.00
+Temperature (C): 20.00
+
+Humidity (%): 88.00
+Temperature (C): 20.00
+
+Humidity (%): 81.00
+Temperature (C): 20.00
+
+Humidity (%): 76.00
 Temperature (C): 21.00
 
-Humidity (%): 94.00
+Humidity (%): 71.00
 Temperature (C): 21.00
 
-Humidity (%): 93.00
-Temperature (C): 20.00
+Humidity (%): 70.00
+Temperature (C): 21.00
 
-Humidity (%): 93.00
-Temperature (C): 20.00
+Humidity (%): 68.00
+Temperature (C): 21.00
 
-Humidity (%): 93.00
-Temperature (C): 20.00
+Humidity (%): 67.00
+Temperature (C): 21.00
 
-Humidity (%): 93.00
-Temperature (C): 20.00
+Humidity (%): 66.00
+Temperature (C): 21.00
 
-Humidity (%): 93.00
-Temperature (C): 20.00
+Humidity (%): 65.00
+Temperature (C): 21.00
+
+Humidity (%): 64.00
+Temperature (C): 21.00
+
+Humidity (%): 63.00
+Temperature (C): 21.00
+
+Humidity (%): 62.00
+Temperature (C): 21.00
+
+Humidity (%): 61.00
+Temperature (C): 21.00
+
+Humidity (%): 61.00
+Temperature (C): 21.00
+
+Humidity (%): 60.00
+Temperature (C): 21.00
+
+Humidity (%): 60.00
+Temperature (C): 21.00
+
+Humidity (%): 61.00
+Temperature (C): 21.00
+
+Humidity (%): 59.00
+Temperature (C): 21.00
+
+Humidity (%): 59.00
+Temperature (C): 21.00
+
+Humidity (%): 58.00
+Temperature (C): 21.00
+
+Humidity (%): 58.00
+Temperature (C): 21.00
+
+Humidity (%): 58.00
+Temperature (C): 21.00
+
+Humidity (%): 57.00
+Temperature (C): 21.00
+
+Humidity (%): 57.00
+Temperature (C): 21.00
+
+Humidity (%): 57.00
+Temperature (C): 21.00
+
+Humidity (%): 56.00
+Temperature (C): 21.00
+
+Humidity (%): 56.00
+Temperature (C): 21.00
+
+Humidity (%): 56.00
+Temperature (C): 21.00
+
+Humidity (%): 56.00
+Temperature (C): 21.00
+
+Humidity (%): 56.00
+Temperature (C): 21.00
+
+Humidity (%): 55.00
+Temperature (C): 21.00
+
+Humidity (%): 55.00
+Temperature (C): 21.00
+
+Humidity (%): 55.00
+Temperature (C): 21.00
+
+Humidity (%): 56.00
+Temperature (C): 21.00
+
+Humidity (%): 55.00
+Temperature (C): 21.00
+
+Humidity (%): 57.00
+Temperature (C): 21.00
+
+Humidity (%): 57.00
+Temperature (C): 21.00
+
+Humidity (%): 57.00
+Temperature (C): 21.00
+
+Humidity (%): 57.00
+Temperature (C): 21.00
+
+Humidity (%): 56.00
+Temperature (C): 21.00
+
+Humidity (%): 56.00
+Temperature (C): 21.00
+
+Humidity (%): 56.00
+Temperature (C): 21.00
+
+Humidity (%): 56.00
+Temperature (C): 21.00
+
+Humidity (%): 56.00
+Temperature (C): 21.00
+
+Humidity (%): 55.00
+Temperature (C): 21.00
+
+Humidity (%): 69.00
+Temperature (C): 21.00
+
+Humidity (%): 61.00
+Temperature (C): 21.00
+
+Humidity (%): 59.00
+Temperature (C): 21.00
+
+Humidity (%): 58.00
+Temperature (C): 21.00
+
+Humidity (%): 60.00
+Temperature (C): 21.00
+
+Humidity (%): 69.00
+Temperature (C): 21.00
+
+Humidity (%): 71.00
+Temperature (C): 21.00
+
+Humidity (%): 67.00
+Temperature (C): 21.00
+
+Humidity (%): 71.00
+Temperature (C): 21.00
+
+Humidity (%): 65.00
+Temperature (C): 21.00
+
+Humidity (%): 63.00
+Temperature (C): 21.00
+
+Humidity (%): 62.00
+Temperature (C): 21.00
+
+Humidity (%): 61.00
+Temperature (C): 21.00
+
+Humidity (%): 61.00
+Temperature (C): 21.00
+
+Humidity (%): 61.00
+Temperature (C): 22.00
+
+Humidity (%): 60.00
+Temperature (C): 22.00
+
+Humidity (%): 60.00
+Temperature (C): 22.00
+
+Humidity (%): 59.00
+Temperature (C): 22.00
+
+Humidity (%): 59.00
+Temperature (C): 22.00
+
+Humidity (%): 58.00
+Temperature (C): 22.00
+
+Humidity (%): 58.00
+Temperature (C): 22.00
+
+Humidity (%): 58.00
+Temperature (C): 22.00
+
+Humidity (%): 57.00
+Temperature (C): 22.00
+
+Humidity (%): 57.00
+Temperature (C): 22.00
+
+Humidity (%): 56.00
+Temperature (C): 22.00
+
+Humidity (%): 56.00
+Temperature (C): 22.00
+
+Humidity (%): 56.00
+Temperature (C): 22.00
+
+Humidity (%): 56.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 76.00
+Temperature (C): 22.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 95.00
+Temperature (C): 23.00
+
+Humidity (%): 92.00
+Temperature (C): 23.00
+
+Humidity (%): 86.00
+Temperature (C): 23.00
+
+Humidity (%): 79.00
+Temperature (C): 23.00
+
+Humidity (%): 76.00
+Temperature (C): 23.00
+
+Humidity (%): 74.00
+Temperature (C): 23.00
+
+Humidity (%): 71.00
+Temperature (C): 23.00
+
+Humidity (%): 70.00
+Temperature (C): 23.00
+
+Humidity (%): 68.00
+Temperature (C): 23.00
+
+Humidity (%): 67.00
+Temperature (C): 22.00
+
+Humidity (%): 65.00
+Temperature (C): 22.00
+
+Humidity (%): 64.00
+Temperature (C): 22.00
+
+Humidity (%): 63.00
+Temperature (C): 22.00
+
+Humidity (%): 62.00
+Temperature (C): 22.00
+
+Humidity (%): 62.00
+Temperature (C): 22.00
+
+Humidity (%): 61.00
+Temperature (C): 22.00
+
+Humidity (%): 60.00
+Temperature (C): 22.00
+
+Humidity (%): 59.00
+Temperature (C): 22.00
+
+Humidity (%): 58.00
+Temperature (C): 22.00
+
+Humidity (%): 58.00
+Temperature (C): 22.00
+
+Humidity (%): 57.00
+Temperature (C): 22.00
+
+Humidity (%): 58.00
+Temperature (C): 22.00
+
+Humidity (%): 58.00
+Temperature (C): 22.00
+
+Humidity (%): 58.00
+Temperature (C): 22.00
+
+Humidity (%): 57.00
+Temperature (C): 22.00
+
+Humidity (%): 57.00
+Temperature (C): 22.00
+
+Humidity (%): 56.00
+Temperature (C): 22.00
+
+Humidity (%): 56.00
+Temperature (C): 22.00
+
+Humidity (%): 56.00
+Temperature (C): 22.00
+
+Humidity (%): 56.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 58.00
+Temperature (C): 22.00
+
+Humidity (%): 95.00
+Temperature (C): 22.00
+
+Humidity (%): 95.00
+Temperature (C): 22.00
+
+Humidity (%): 94.00
+Temperature (C): 22.00
+
+Humidity (%): 85.00
+Temperature (C): 22.00
+
+Humidity (%): 75.00
+Temperature (C): 22.00
+
+Humidity (%): 70.00
+Temperature (C): 22.00
+
+Humidity (%): 68.00
+Temperature (C): 22.00
+
+Humidity (%): 67.00
+Temperature (C): 23.00
+
+Humidity (%): 65.00
+Temperature (C): 22.00
+
+Humidity (%): 64.00
+Temperature (C): 23.00
+
+Humidity (%): 63.00
+Temperature (C): 23.00
+
+Humidity (%): 62.00
+Temperature (C): 23.00
+
+Humidity (%): 60.00
+Temperature (C): 23.00
+
+Humidity (%): 60.00
+Temperature (C): 22.00
+
+Humidity (%): 59.00
+Temperature (C): 22.00
+
+Humidity (%): 58.00
+Temperature (C): 22.00
+
+Humidity (%): 58.00
+Temperature (C): 22.00
+
+Humidity (%): 57.00
+Temperature (C): 22.00
+
+Humidity (%): 57.00
+Temperature (C): 22.00
+
+Humidity (%): 56.00
+Temperature (C): 22.00
+
+Humidity (%): 56.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 55.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 54.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 53.00
+Temperature (C): 22.00
+
+Humidity (%): 52.00
+Temperature (C): 21.00
+
+Humidity (%): 52.00
+Temperature (C): 21.00
+
+Humidity (%): 52.00
+Temperature (C): 21.00
+
+Humidity (%): 52.00
+Temperature (C): 21.00
+
+Humidity (%): 53.00
+Temperature (C): 21.00
+
+Humidity (%): 53.00
+Temperature (C): 21.00
+
+Humidity (%): 53.00
+Temperature (C): 21.00
+
+Humidity (%): 53.00
+Temperature (C): 21.00
+
+Humidity (%): 53.00
+Temperature (C): 21.00
+
+Humidity (%): 53.00
+Temperature (C): 21.00
+
+Humidity (%): 53.00
+Temperature (C): 21.00
+
+Humidity (%): 53.00
+Temperature (C): 21.00
+
+Humidity (%): 54.00
+Temperature (C): 21.00
+
+Humidity (%): 54.00
+Temperature (C): 21.00
+
+Humidity (%): 54.00
+Temperature (C): 21.00
+
+Humidity (%): 54.00
+Temperature (C): 21.00
+
+Humidity (%): 54.00
+Temperature (C): 21.00
+
+Humidity (%): 54.00
+Temperature (C): 21.00
+
+Humidity (%): 54.00
+Temperature (C): 21.00
+
+Humidity (%): 54.00
+Temperature (C): 21.00
+
+Humidity (%): 54.00
+Temperature (C): 21.00
+
+Humidity (%): 54.00
+Temperature (C): 21.00
+
+Humidity (%): 55.00
+Temperature (C): 21.00
+
+Humidity (%): 55.00
+Temperature (C): 21.00
