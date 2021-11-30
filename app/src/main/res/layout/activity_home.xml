@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                xmlns:tools="http://schemas.android.com/tools">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="500dp"
+              android:id="@+id/homeMap"
+              tools:context=".HomeActivity"
+              android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:elevation="10dp"
+            android:background="@drawable/white_border"
+            android:id="@+id/relLayout11"
+            android:visibility="invisible">
+
+        <ImageView
+                android:layout_width="9dp"
+                android:layout_height="10dp"
+                android:id="@+id/ic_magnify1"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/ic_magnify"
+                android:visibility="invisible"/>
+
+        <AutoCompleteTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toRightOf="@+id/ic_magnify1"
+                android:layout_centerVertical="true"
+                android:textSize="15sp"
+                android:textColor="#000"
+                android:id="@+id/input_search_home"
+                android:background="@null"
+                android:hint="Enter Address, City or Zip Code"
+                android:imeOptions="actionSearch"
+                android:visibility="invisible"/>
+
+    </RelativeLayout>
+
+    <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/relLayout11"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:scaleType="centerCrop"
+            android:id="@+id/ic_gps1"
+            android:src="@drawable/ic_gps"/>
+
+    <TextView
+            android:layout_width="413dp"
+            android:layout_height="220dp"
+            android:id="@+id/info_home"
+            android:textSize="30sp"
+            android:textAlignment="center"
+            android:padding="50dp"
+            android:drawablePadding="16dp"
+            android:gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
